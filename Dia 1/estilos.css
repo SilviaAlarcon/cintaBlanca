@@ -1,0 +1,38 @@
+body {
+	background-color: #9E9E9E;
+}
+#titulo{
+	font-family:sans-serif; 
+	text-align: center;
+
+}
+
+img {
+	
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.cuadrito {
+	background-color: #FFD54F;
+	width: 30%;
+
+	height: 200px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 35px;
+	display: block;
+	box-shadow: 10px 10px black;
+}
+.cuadro
+{
+	background-color: #9575CD;
+	width: 50%;
+	margin-top: 10px;
+	
+
+	display: block;
+	padding: 100px;
+
+}

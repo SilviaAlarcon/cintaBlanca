@@ -1,0 +1,18 @@
+.papa{
+	border: solid 1px;
+/*importante ponerlo en el que los contiene*/
+	display: flex;
+	/*propiedad que hace que todo se separe exactamente */
+	justify-content: space-around;
+	flex-direction: column;
+	height: 400px;
+/*ordena las cosas como justify pero en vertical */
+	align-items: center;
+}
+
+.hijo {
+	border: solid blue;
+	height: 50px;
+	width: 20%;
+
+}

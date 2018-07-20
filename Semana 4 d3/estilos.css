@@ -1,0 +1,39 @@
+.con{
+
+/*	height: 100px;*/
+	padding-top: 20px;
+}
+
+.boton{
+
+	height: 5%;
+	background: #3E2723;
+	border: #3E2723;
+}
+
+/*.logo{
+	background:contain;
+	background-size: 10px;*/
+}
+
+.cont{
+/*	height: 1000px;*/
+}
+
+.fondo{
+	background-image: url("goodread copia.jpg");
+	background-size: 150%;
+	background-repeat: no-repeat;
+	transform: translateY();
+	background: contain;
+}
+
+.botoon{
+	background: #FDD835;
+	border: #FDD835;
+	height: 40px;
+	padding-right: 3%;
+	margin-left: 3%;
+	color: black;
+}
+

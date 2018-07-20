@@ -1,0 +1,41 @@
+.img-container{
+	height: 400px;
+}
+
+.img-container .img-up{
+	transform: translateY(10%) scale(1.5)     /* /*para mover imagenes en su eje y (arriba y abajo)*/
+}
+
+/*scale para poner imagenes a escala  y no se puede poner en porcentaje*/
+/*
+no puedes poner varios tranform, ejemplo
+transform: translateY
+transform: escale
+
+se deben poner las propiedades (translateY y scale) en la misma linea*/
+
+.custom-card{
+	background-image: url("https://buhomag-cms.imgix.net/wp-content/uploads/2017/12/01163258/clash-royale.jpg?auto=compress,format");
+	background-size: 160%;
+	background-repeat: no-repeat;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/*con la clase .custom-card pusimos una imagen en un div, que puede ser un texto*/
+
+
+
+/*cover es para adaptar una imagen al contenedor (se puede salir un poco la imagen)
+contain para adaptar la imagen en el contenedor y la repite por si no alcanza 
+background-repeat: no-repeat para usar contain y que se adapte pero no se repita */
+/*background-position-x para modificar las imagenes en el eje x, a los lados
+background-size para modificar el tamaño*/
+
+
+.col-md-8 {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,36 @@
+/*p {
+	color: green;
+}
+
+.micontenedor {
+
+}
+*/
+/* agreagr una clase nueva para ponerle estilo a la imagenes, mismo tamaño
+
+.car-img-top {
+	width
+}
+
+/**/
+.rojo{
+	background: red;
+	padding: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.azul{
+	background: #1A237E;
+}
+
+.tam{
+	width: 100%;
+	height: 250px;
+}
+
+.tem {
+	width: 100%;
+	height: 100px;
+}
+

@@ -1,0 +1,10 @@
+.main {
+	border: 1px red solid;
+}
+.tarjeta {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	border: 1px red solid;
+}
